@@ -1,0 +1,11 @@
+Product-ID,Product-Name,Price,Qty
+El-190,Iphone-12,75000,50
+El-191,Mac-Book,100000,50
+El-192,Ipad,80000,50
+El-193,Air-Pod,15000,50
+El-194,Apple-Watch,30000,50
+Cl-190,Nike-Shoe,5000,50
+Cl-191,Titan-Watch,2000,50
+Cl-192,Denim-Jeans,2000,50
+Cl-193,Polo-Shirt,1500,50
+Cl-194,Denim-Jacket,3000,50
